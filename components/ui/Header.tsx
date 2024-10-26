@@ -26,7 +26,7 @@ export default function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-50 flex place-content-center justify-around py-4 transition-all duration-300 ${
+      className={`sticky top-0 z-50 flex place-content-center px-10 justify-between md:justify-around py-4 transition-all duration-300 ${
         isScrolled
           ? "bg-[#120030] text-white opacity-96"
           : "bg-transparent text-gray-800"
