@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TestMaster: A Revolution in Educational Assessment
 
-## Getting Started
+## Overview
 
-First, run the development server:
+TestMaster is a cutting-edge web-based platform designed to streamline the testing process for both teachers and students. By automating many of the time-consuming tasks associated with traditional paper-based assessments, TestMaster offers a more efficient and effective solution for educators.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Automated Grading and Feedback**: Save valuable time with automated grading and instant feedback, allowing teachers to focus on providing personalized instruction.
+- **Customizable Test Creation**: Tailor assessments to meet the specific needs of your students with our flexible test creation tools.
+- **Interactive Learning Experience**: Engage students with an online testing environment that offers immediate feedback and a built-in timer to enhance time management skills.
+- **Advanced Analytics**: Track student progress over time with detailed analytics to better understand and support their learning journey.
+- **Integration with LMS**: Seamlessly integrate with other learning management systems to enhance your educational tools and workflows.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/maydan12/testmaster.git
+   ```
 
-## Learn More
+In the project directory, you can run:
 
-To learn more about Next.js, take a look at the following resources:
+## `npm install`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### `npm start`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
